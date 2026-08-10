@@ -1,3 +1,5 @@
+
+
 # GitHubTok 🚀
 
 GitHubTok is a fun and interactive way to discover trending GitHub repositories. Inspired by popular social media apps, it lets you swipe through repositories to find interesting projects that match your interests.
@@ -13,7 +15,7 @@ GitHubTok is a fun and interactive way to discover trending GitHub repositories.
 
 ## Tech Stack 🛠️
 
-- [Next.js 14](https://nextjs.org/) - React framework
+- [Next.js 15](https://nextjs.org/) - React framework
 - [Tailwind CSS](https://tailwindcss.com/) - Styling
 - [Framer Motion](https://www.framer.com/motion/) - Animations
 - [shadcn/ui](https://ui.shadcn.com/) - UI components
